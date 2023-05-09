@@ -48,11 +48,11 @@ Using the wireframe from the Figma link below create the website. The client (Ze
   
   - A logo in the top-left corner that when clicked takes you to the Home Page (20 points)
   
-  - A shopping cart logo in the top-right corner that when clicked takes you to your checkout page (20 points)
+  - A shopping cart logo in the top-right corner that when clicked takes you to your checkout page (10 points)
   
   - A searchbar (note: this is just a form it does not have to actually search the website) (20 points)
   
-  - 3 cards displaying the shoes available for purchase with their descriptions and prices listed, with a "BUY NOW" button (20 points)
+  - 3 cards displaying the shoes available for purchase with their descriptions and prices listed, with a "BUY NOW" button (30 points)
     
     - When the BUY NOW button is pressed it should take you to the "Checkout Page" 
 

@@ -1,0 +1,128 @@
+#logo {
+    height: 6em;
+    padding-top: 5px;
+}
+
+h1, li {
+    display: inline;
+}
+
+
+ul {
+    list-style-type: none;
+    background-color: rgb(59, 118, 228);
+}
+#active {
+    background-color: rgb(31, 86, 187);
+}
+
+#buy > a {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(59, 118, 228);
+    font-size: 1.5em;  
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 0em; 
+}
+
+li > a {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(59, 118, 228);
+    font-size: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: .5em;
+}
+
+#buy > a:hover {
+    background-color:rgb(21, 73, 168);
+}
+
+li > a:hover {
+    background-color:rgb(21, 73, 168);
+}
+
+input#search{
+    width: 30em;
+    height: 3.85em;
+}
+
+#cart {
+    height: 4em;
+    padding-left: 30%;
+}
+
+body {
+    background-color: beige;
+}
+
+#banner-div {
+    background-color: darkslategrey;
+}
+
+#card {
+    border-style: solid;
+}
+
+#card > img {
+    height: 12em;
+    width: 18em;
+    margin-top: 10%;
+    border-style: solid;
+    margin: 5 5;
+}
+
+br {
+    background-color: black;
+}
+
+
+
+
+input {
+    height: 1em;
+    width: 1em;
+}
+input#buy {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(59, 118, 228);
+    font-size: 1.5em;  
+    padding-left: .5em;
+    padding-right: 1em;
+    padding-bottom: 0em; 
+    height: 3em;
+    width: 6em;
+}
+#buy:hover {
+    background-color:rgb(21, 73, 168);
+}
+
+input#cartTotal {
+    height: 3em;
+    width: 6em;
+}
+section#cartSection {
+    padding-left: 35%;
+    font-size: 1.5em;
+}
+h1#indigo {
+    color: indigo;
+}
+
+input#checkout {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(3, 158, 119);
+    font-size: 1.5em;  
+    padding-left: .5em;
+    padding-right: .5em;
+    padding-bottom: 0em; 
+    height: 3em;
+    width: 6em;
+}
+#checkout:hover {
+    background-color:rgb(21, 73, 168);
+}
