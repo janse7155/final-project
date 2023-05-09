@@ -19,7 +19,7 @@ ul {
 #buy > a {
     text-decoration: none;
     color: white;
-    background-color: rgb(59, 118, 228);
+    background-color: rgb(20, 184, 166);
     font-size: 1.5em;  
     padding-left: 1em;
     padding-right: 1em;
@@ -37,7 +37,7 @@ li > a {
 }
 
 #buy > a:hover {
-    background-color:rgb(21, 73, 168);
+    background-color:rgb(15, 151, 135);
 }
 
 li > a:hover {
@@ -88,7 +88,7 @@ input {
 input#buy {
     text-decoration: none;
     color: white;
-    background-color: rgb(59, 118, 228);
+    background-color: rgb(20, 184, 166);
     font-size: 1.5em;  
     padding-left: .5em;
     padding-right: 1em;
@@ -97,12 +97,12 @@ input#buy {
     width: 6em;
 }
 #buy:hover {
-    background-color:rgb(21, 73, 168);
+    background-color:rgb(15, 151, 135);
 }
 
 input#cartTotal {
-    height: 3em;
-    width: 6em;
+    height: 2.5em;
+    width: 4em;
 }
 section#cartSection {
     padding-left: 35%;
@@ -115,7 +115,7 @@ h1#indigo {
 input#checkout {
     text-decoration: none;
     color: white;
-    background-color: rgb(3, 158, 119);
+    background-color: rgb(20, 184, 166);
     font-size: 1.5em;  
     padding-left: .5em;
     padding-right: .5em;
@@ -124,5 +124,5 @@ input#checkout {
     width: 6em;
 }
 #checkout:hover {
-    background-color:rgb(21, 73, 168);
+    background-color:rgb(15, 151, 135);
 }
